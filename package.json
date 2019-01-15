@@ -1,12 +1,12 @@
  {
  "name": "yelyah",
-  "version": "0.0.1",
   "description": "Hayley",
+  "version": "0.0.1",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
     },
   "dependencies": {
-    "discord.js": "^11.4.2"
+    "discord.js": "11.4.2",
   }
 }
